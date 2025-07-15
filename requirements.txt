@@ -1,0 +1,15 @@
+openai
+sentence-transformers
+torchaudio
+torch
+numpy
+scipy
+soundfile
+Pillow
+requests
+python-dotenv
+
+fastapi
+uvicorn
+python-dotenv
+
